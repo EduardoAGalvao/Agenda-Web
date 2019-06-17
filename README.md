@@ -14,8 +14,23 @@ This project was built in SENAI technical school with the following goals:
 The project counts with some interesting details like:
 
 - Login interface and logic
+
+<img src="./gif/usuario.gif" title="Authentication" alt="Authentication"/>
+
+- Add a contact and it's information
+
+<img src="./gif/contato.gif" title="Contact" alt="Contact"/>
+
+- Add a commitment and it's details
+
+<img src="./gif/compromisso.gif" title="Commitment" alt="Commitment"/>
+
 - Bootrstrap framework help with the interface
 - Password encryption
+
+Version: 1.0
+
+Creation: 10/06/2019
 
 *Everything made with a lot of curiosity and programming passion* 
 
